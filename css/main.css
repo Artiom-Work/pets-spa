@@ -1,12 +1,12 @@
 /* Base */
-@import "./reset.css";
-@import "./fonts.css";
-@import "/css/vars.css";
-@import "/css/base.css";
+@import "reset.css";
+@import "fonts.css";
+@import "vars.css";
+@import "base.css";
 /* BLOCKS */
-@import "/css/btn.css";
-@import "/css/logo.css";
+@import "btn.css";
+@import "logo.css";
 /* SECTIONS */
-@import "/css/nav.css";
-@import "/css/header.css";
-@import "/css/section.css";
+@import "nav.css";
+@import "header.css";
+@import "section.css";
