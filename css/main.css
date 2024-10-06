@@ -1,0 +1,16 @@
+@import "./reset.css";
+@import "./fonts.css";
+
+body {
+	font-family: "Montserrat", sans-serif;
+	font-optical-sizing: auto;
+	font-style: normal;
+	font-weight: 400;
+}
+
+/* .nunito {
+	font-family: "Nunito", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 700;
+	font-style: normal;
+} */
