@@ -1,0 +1,45 @@
+.nav {
+	padding-top: 47px;
+	padding-bottom: 108px;
+}
+
+.nav__grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 30px;
+	align-items: center;
+}
+
+.nav-list {
+	display: flex;
+	align-items: center;
+	gap: 50px;
+	font-family: var(--font-family);
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 156%;
+	color: var(--333333);
+}
+
+.nav-list__link {
+	display: block;
+	color: var(--333333);
+	text-transform: capitalize;
+	transition: all 0.2s ease-in;
+}
+
+.nav-list__link:hover {
+	color: var(--efbd68);
+}
+
+.nav-list__link:active {
+	transform: scale(.9);
+}
+
+.nav__logo {
+	text-align: center;
+}
+
+.nav__btn {
+	text-align: right;
+}
