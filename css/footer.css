@@ -8,8 +8,9 @@
 	color: var(--333333);
 }
 
-.footer a {
+.footer__link {
 	color: var(--333333);
+	transition: all 0.2s ease-in;
 }
 
 .footer__conternt {
@@ -47,7 +48,7 @@
 	margin-bottom: 15px;
 }
 
-.footer__nav p:not(:last-child) {
+.footer__nav .footer__nav-text:not(:last-child) {
 	margin-bottom: 15px;
 }
 

@@ -28,14 +28,6 @@
 	transition: all 0.2s ease-in;
 }
 
-.nav-list__link:hover {
-	color: var(--efbd68);
-}
-
-.nav-list__link:active {
-	transform: scale(.9);
-}
-
 .nav__logo {
 	text-align: center;
 }

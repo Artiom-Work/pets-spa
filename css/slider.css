@@ -48,13 +48,3 @@
 .swiper-button-next {
 	transition: all 0.2s ease-in;
 }
-
-.swiper-button-prev:hover,
-.swiper-button-next:hover {
-	transform: scale(1.1);
-}
-
-.swiper-button-prev:active,
-.swiper-button-next:active {
-	transform: scale(.9) !important;
-}

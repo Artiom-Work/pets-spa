@@ -13,12 +13,3 @@
 	color: var(--333333);
 	transition: all 0.2s ease-in;
 }
-
-.btn:hover {
-	color: #fff;
-	background-color: var(--333333);
-}
-
-.btn:active {
-	transform: scale(.9);
-}

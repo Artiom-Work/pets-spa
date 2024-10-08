@@ -1,16 +1,3 @@
-.logo__link:hover .logo__image {
-	filter: brightness(60%);
-}
-
-.logo__link--footer:hover .logo__image {
-	filter: brightness(200%);
-}
-
-.logo__link:active .logo__image {
-	filter: brightness(40%);
-	transform: scale(.9);
-}
-
 .logo__image {
 	transition: all 0.2s ease-in;
 }
